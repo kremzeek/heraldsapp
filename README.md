@@ -17,11 +17,11 @@ FAQ.
 
 1. Is this official?
 
-**No!**  Gaia has not approved this.
+    **No!**  Gaia has not approved this.
 
 2. Do you need my username/password?
 
-Unfortunately, the application needs it to log on.
+    Unfortunately, the application needs it to log on.
 
 3. Isn't that dangerous for me?
 
