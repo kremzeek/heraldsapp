@@ -21,42 +21,36 @@ FAQ.
 
 2. Do you need my username/password?
 
-    Unfortunately, the application needs it to log on.
+    The app needs your cookies.  I have a help document describing how to get them.
 
-3. Isn't that dangerous for me?
+3. How dangerous is this?
 
-Yes. If you did ask this question, you should feel good about yourself. If I was a hostile entity, I could steal lots of stuff from your character given the password.
+    If I were hostile, I could do the same things someone could do to your Gaia account if you walked away from your computer.  Anything that requires a password won't work because I don't have it.
 
-4. So will you?
+4. Will you have username/password login?
 
-No. I'm a professional software developer and it's not worth the damage to my career to get a few tens of dollars of your Gaia stuff, or even hundreds of dollars of stuff from a bunch of people.
+    Yes.  I technically got that working first, but I didn't want to just throw something out there asking for a username and password.
 
-Still, you could change your password to something temporary, use it to log in with this app, and then change back to your original in your web browser. Were I hostile, that would give me only a tiny window to steal your items. I won't, but you should be paranoid.  You could also experiment with your mule with no items.
+    Ideally in the long term Gaia will just acquire this project, and then they would be in charge of it.  That is not our situation currently.
 
-5. Is there some other way to handle authentication?
+5. How do I install it?
 
-Ideally in the long term Gaia will just acquire this project, and then they would be in charge of it.  That is not our situation currently.
+    I have an APK file <a href="">here</a>.  If you don't know what an APK file is or how to install one, you probably shouldn't be messing with this for the time being. 
 
-But, in the meantime, it's possible for me to try to import your cookies. That would significantly limit what I could do were I hostile.  This might be too annoying to implement.  If you have ideas about this, let me know.
+6. I can't buy cards/edit armies/use chaos keys/do special attack!  I can't see the graphics!  What's wrong?
 
-6. How do I install it?
+    Nothing.  This is a minimum viable product. I want to make sure that battles can work.  It's not even version 1 yet.  I aim for functionality over prettiness.
 
-I have an APK file <a href="">here</a>.  If you don't know what an APK file is or how to install one, you probably shouldn't be messing with this for the time being. 
+7. How can I reach you?
 
-7. I can't buy cards/edit armies/use chaos keys/do some certain special attack!  I can't see the graphics!  What's wrong?
+    PM kremzeek on Gaia.  I hope to have a thread for bug reports, too, in the HoC forums somewhere.
 
-Nothing.  This is a minimum viable product. I want to make sure that battles can work.  It's not even version 1 yet.  I aim for functionality over prettiness.
+8. Are you charging for this?
 
-8. How can I reach you?
+    Not at present.  I do not intend to put in ads. 
 
-PM kremzeek on Gaia.  I hope to have a thread for bug reports, too, in the HoC forums somewhere.
+9. So is this an official Gaia product?
 
-9. Are you charging for this?
-
-Not at present.  I do not intend to put in ads. 
-
-10. So is this an official Gaia product?
-
-**NO!**
+    **NO!**
 
 
