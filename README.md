@@ -35,11 +35,11 @@ FAQ.
 
 5. How do I install it?
 
-    I have an APK file <a href="cookie">here</a>.  If you don't know what an APK file is or how to install one, you probably shouldn't be messing with this for the time being. 
+    I have an APK file <a href="thingy.apk">here</a>.  If you don't know what an APK file is or how to install one, you probably shouldn't be messing with this for the time being. 
 
 6. I can't buy cards/edit armies/use chaos keys/do special attack!  I can't see the graphics!  What's wrong?
 
-    Nothing.  This is a minimum viable product. I want to make sure that battles can work.  It's not even version 1 yet.  I aim for functionality over prettiness.
+    Nothing.  This is a minimum viable product. I want to make sure that battles can work.  It's not even version 1 yet.  I aim for functionality over prettiness.  I have a [howto](howto.md) here.  It describes what you need.
 
 7. How can I reach you?
 
