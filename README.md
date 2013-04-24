@@ -43,7 +43,7 @@ FAQ.
 
 7. How can I reach you?
 
-    PM kremzeek on Gaia.  I hope to have a thread for bug reports, too, in the HoC forums somewhere.
+    PM kremzeek on Gaia.  I have a thread [here](http://www.gaiaonline.com/forum/heralds-of-chaos/very-basic-android-client/t.85672311/) where you can post questions.
 
 8. Are you charging for this?
 
