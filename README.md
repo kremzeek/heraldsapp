@@ -31,7 +31,7 @@ FAQ.
 
     Yes.  I technically got that working first, but I didn't want to just throw something out there asking for a username and password.
 
-    Ideally in the long term Gaia will just acquire this project, and then they would be in charge of it.  That is not our situation currently.  Second-best would be an API key so that there could give your username/password only for Heralds Of Chaos.
+    Second-best would be an API key so that users could give a username/password only to log into Heralds without affecting the rest of Gaia.
 
 5. How do I install it?
 
